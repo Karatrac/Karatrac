@@ -11,9 +11,6 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
 - 🔭 I’m currently working on VueJs and API Rest in Symfony 
 
 <h2> Skills </h2>
